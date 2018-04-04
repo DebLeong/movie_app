@@ -4,4 +4,4 @@ This is a movie application built with ReactJS
 1. Clone the git repository
 1. `npm install`
 1. `yarn start`
-1. Go to [localhost](http://localhost:300)
+1. Go to [localhost](http://localhost:300) to view the application
