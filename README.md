@@ -1,4 +1,4 @@
-# Welcome to Movie_app
+# Welcome to Movie App
 This is a movie application built with ReactJS
 ## Demo
 <img src="./demo/screenshot.png" width="500">
